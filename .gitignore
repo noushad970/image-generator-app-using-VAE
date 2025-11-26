@@ -25,6 +25,7 @@
 /dev/integration_tests/**/xcuserdata
 /dev/integration_tests/**/Pods
 /packages/flutter/coverage/
+/Datasets
 version
 analysis_benchmark.json
 
